@@ -1,5 +1,5 @@
 # Projeto de Análise do Cadastro Nacional da Pessoa Jurídica (CNPJ)
-Este projeto é uma ferramenta de análise de dados que lê arquivos CSV do Cadastro Nacional da Pessoa Jurídica (CNPJ) disponíveis no portal de dados abertos do governo brasileiro dados.gov.br.
+Este projeto é uma ferramenta de análise de dados que lê arquivos CSV do Cadastro Nacional da Pessoa Jurídica (CNPJ) disponíveis no portal de dados abertos do governo brasileiro [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj).
 
 O código contém uma lógica para extrair todos os dados de forma automática do arquivo `decompress.py`. Em seguida, os dados são extraídos de três bases diferentes:
 
